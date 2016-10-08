@@ -1,0 +1,2 @@
+# GitHubTrainingProject
+Trying to understand
